@@ -22,7 +22,7 @@ Using the following steps in the jupyter notebook we have retieved weather data 
 3. Perform an API call with the OpenWeatherMap
 4. Group cities in sets of 50 for logging purposes we will create a new list city_data that will have details for all the cities retrieved above. 
 5. Convert this array of dictionaries from our result to a Pandas DataFrame.
-	 [1][city_data Image for reference]
+	[city_data Image for reference][1]
 
 6. For future projects we will convert the city_data_df to a WeatherPy_Database.csv and save it to the Weather_Database folder
 
@@ -42,7 +42,7 @@ Using the following steps in the jupyter notebook we have retieved Customer Trav
 4. Determine if there are any empty rows, then drop them using dropna() and create a new DataFrame.
 5. Created a DataFrame called hotel_df to store hotel names along with city, country, max temp,Weather Description and coordinates.
 6. Set parameters to search for hotels with 5000 meters using google key and update the Hotel Name of the hotel_df created in the previous step.Now since we    have the hotel names we can use them for ploting in the markers.
- [2][hotel_df Image for reference]
+ [hotel_df Image for reference][2]
 7. Drop rows where no hotel name was found.
 8. Create csv file named WeatherPy_vacation.csv and save in folder named Vacation_search.
 9. Add the city name, the country code, the weather description, and the maximum temperature for the city to the info_box_template 
