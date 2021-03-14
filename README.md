@@ -60,6 +60,7 @@ We have all the data available in the Vacation_Search folder with the following:
 #### 1.The Vacation_Search.ipynb file
 #### 2.The WeatherPy_vacation.csv file
 #### 3.The WeatherPy_vacation_map.png image
+![](https://github.com/Akshaya-Kamble/WeatherPy/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### Create a Travel Itinerary Map
 Using Google Directions API we have created a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations.We have also created a marker layer map with a pop-up marker for each city on the itinerary.
@@ -81,6 +82,7 @@ We have all the data available in the Vacation_Itinerary folder with the followi
 #### 2.The WeatherPy_travel_map.png image
 #### 3.The WeatherPy_travel_map_markers.png 
 
+![](https://github.com/Akshaya-Kamble/WeatherPy/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 ## Summary
 With help of Python data and dependencies we are able to collect data, plot data on google maps with cities and markers using google API .
 
